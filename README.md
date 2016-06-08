@@ -1,14 +1,7 @@
-# personal
-****
- Personal website: [personal website](http://gitalry.github.io)  
- 
- Repo: (https://github.com/gitalry/gitalry.github.io)
- 
- ****
- personal blog [Blog](http://gitalry.github.io/gitari)
- 
- *Occassionally i pen down tech related articles here*
-****
+# projects
+An "about" with the projects am working on
+******
+
 #### Project Repos
 [Rock band website](http://rockband.bitballoon.com) 
 
@@ -24,6 +17,9 @@ NavBar Links:
  3. Contact us
 Tools: Html, CSS, Foundation ZURB 
 
+*Contributors*
+[Gitalry](https://github.com/gitalry)
+
 ***
 [Children's home](http://watoto.bitballoon.com/)
 
@@ -38,6 +34,9 @@ NavBar Links:
  4. Program
 
 Tools: Html, CSS, Foundation ZURB 
+
+*Contributors*
+[Gitalry](https://github.com/gitalry)
 ****
 [PSD2HTML Jordan]( http://seamstress-claire-32857.bitballoon.com)
 
@@ -45,6 +44,9 @@ This project is a PSD2HTML website.
 
 
 Tools: Html, CSS, Foundation ZURB 
+
+*Contributors*
+[Gitalry](https://github.com/gitalry)
 ****
 [Food kioski site](http://timber-grader-ada-83842.bitballoon.com/)
 
@@ -61,16 +63,40 @@ NavBar Links:
  4. Contact us
 
 Tools: Html, CSS, Foundation ZURB 
+
+*Contributors*
+[Gitalry](https://github.com/gitalry)
 ****
-[About a character]( http://bit.ly/25IwVxi)
+[A hotel Resort](http://breeze.bitballoon.com/ )
 
-Repo https://github.com/gitalry/simplecv
+Repo https://github.com/season6/breezeresort
 
-A personal cv application:
+**Features**
+NavBar Links: 
+ 1. Home 
+ 2. About us
+ 3. Programs
+ 4. Gallery
+ 5. Contact us
 
-An android dev project
+Tools: Html, CSS, Foundation ZURB 
 
-Tools:  android
+*Contributors*
+[Gitalry](https://github.com/gitalry)
+[Erick](https://github.com/erick-munene)
+
+****
+##Other
+****
+ Personal website: [personal website](http://gitalry.github.io)  
+ 
+ Repo: (https://github.com/gitalry/gitalry.github.io)
+ 
+ ****
+ personal blog [Blog](http://gitalry.github.io/gitari)
+ 
+ *This blog contains tech related articles*
+****
 
 ***
 ---- out ----
