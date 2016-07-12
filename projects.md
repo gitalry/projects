@@ -75,6 +75,30 @@ An android dev project
 Tools:  android
 
 ****
+[An android flashlight app](http://bit.ly/29D2uDn)
 
+Repo https://github.com/gitalry/simplecv
+
+A personal cv application:
+
+An android dev project
+
+Tools:  android)
+
+Repo https://github.com/gitalry/simplecv
+
+A personal cv application:
+
+An android dev project
+
+Tools:  android)
+
+Repo https://github.com/gitalry/flashlight
+
+A personal cv application:
+
+For android 4.0.3 and above
+
+Tools:  android
 
 ---- out ----
