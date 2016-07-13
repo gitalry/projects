@@ -10,7 +10,7 @@
  *Occassionally i pen down tech related articles here*
 ****
 #### Project Repos
-[Rock band website](http://rockband.bitballoon.com) 
+[Rock band website](http://bandsite.bitballoon.com) 
 
 Repo: https://github.com/gitalry/Band
 
@@ -54,7 +54,7 @@ Features: one page website Menu
 
 Tools: Html, CSS, Foundation ZURB 
 ****
-[An android ToDo list Manager app](http://bit.ly/29xcYAN)
+[An password protected android ToDo list Manager](http://bit.ly/29xcYAN)
 
 Repo https://github.com/gitalry/fetch
 
