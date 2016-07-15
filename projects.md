@@ -3,6 +3,8 @@
  Personal website: [personal website](http://gitalry.github.io)  
  
  Repo: (https://github.com/gitalry/gitalry.github.io)
+
+Tools: Html5, CSS3, Foundation ZURB,Js
  
  ****
  personal blog [Blog](http://gitalry.github.io/gitari)
@@ -18,7 +20,7 @@ This project is a music band website.
 
 Features: play audio and videos online, make reservations on like, social media links.
 
-Tools: Html, CSS, Foundation ZURB 
+Tools: Html, CSS, Foundation ZURB,Js
 ***
 [A city based clinic]( http://hospital.bitballoon.com)
 
@@ -28,7 +30,7 @@ A city based clinic website.
 
 Tools: Html5, CSS3, Foundation ZURB 
 ****
-***
+
 [Children's home](http://watoto.bitballoon.com/)
 
 Repo: https://github.com/gitalry/watotokumi
@@ -54,6 +56,27 @@ Features: one page website Menu
 
 Tools: Html, CSS, Foundation ZURB 
 ****
+GROUP PROJECT
+[A social meet up application](under construction)
+
+Repo: https://github.com/season6/mercury
+
+A social meet up android application and a website
+
+
+Tools: Android.Python,Html, CSS, Foundation ZURB, Js
+****
+[A design agency](under construction)
+
+Repo: https://github.com/gitalry/f1
+
+A design agency website.
+
+Features: Home, About,Portfolio,Contact
+
+Tools: Html, CSS, Foundation ZURB, Js
+****
+
 [An password protected android ToDo list Manager](http://bit.ly/29xcYAN)
 
 Repo https://github.com/gitalry/fetch
@@ -64,7 +87,27 @@ Powered by android
 
 For android 4.0.3 +
 ****
-[About a character]( http://bit.ly/25IwVxi)
+[An android flashlight app](http://bit.ly/29D2uDn)
+
+Repo https://github.com/gitalry/simplecv
+
+A personal cv application:
+
+An android dev project
+
+Tools:  android)
+***
+
+Repo https://github.com/gitalry/flashlight
+
+A personal cv application:
+
+For android 4.0.3 and above
+
+Tools:  android
+
+***
+[C.V android]( http://bit.ly/25IwVxi)
 
 Repo https://github.com/gitalry/simplecv
 
@@ -75,30 +118,5 @@ An android dev project
 Tools:  android
 
 ****
-[An android flashlight app](http://bit.ly/29D2uDn)
-
-Repo https://github.com/gitalry/simplecv
-
-A personal cv application:
-
-An android dev project
-
-Tools:  android)
-
-Repo https://github.com/gitalry/simplecv
-
-A personal cv application:
-
-An android dev project
-
-Tools:  android)
-
-Repo https://github.com/gitalry/flashlight
-
-A personal cv application:
-
-For android 4.0.3 and above
-
-Tools:  android
 
 ---- out ----
