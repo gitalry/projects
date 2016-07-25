@@ -46,9 +46,9 @@ This project is a PSD2HTML website.
 
 Tools: Html, CSS, Foundation ZURB 
 ****
-[Food kioski site](http://timber-grader-ada-83842.bitballoon.com/)
+[Food kioski site](http://kibanda.bitballoon.com/)
 
-Repo: https://github.com/gitalry/Kibanda
+Repo: https://github.com/gitalry/lunchionette
 
 Food kioski site website.
 
